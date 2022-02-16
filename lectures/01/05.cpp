@@ -1,5 +1,4 @@
-// width1.cpp
-// demonstrates need for setw manipulator
+// πρόγραμμα που δείχνει την ανάγκη χρήσης του setw manipulator
 #include <iostream>
 using namespace std;
 
