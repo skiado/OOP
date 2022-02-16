@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    //largest unsigned long
+    //ο μέγιστος unsigned long
     const unsigned long limit = 4294967295;
     unsigned long next=0;
     unsigned long last=1;
