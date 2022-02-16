@@ -1,5 +1,4 @@
-// width2.cpp
-// demonstrates setw manipulator
+// Παρουσίαση του setw manipulator
 #include <iostream>
 #include <iomanip>  // for setw
 using namespace std;
