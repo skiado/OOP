@@ -5,8 +5,7 @@ using namespace std;
 int main() {
 	fstream my_file;
 	string line;
-	my_file.open("06_02_file.txt",ios::trunc | ios::out | ios::in);   
-														// by default openmode = ios::in|ios::out mode
+	my_file.open("06_02_file.txt",ios::trunc | ios::out | ios::in);   // by default openmode = ios::in|ios::out mode
 	if (!my_file) {
 		cout << "File not created!" << endl;
 	}
